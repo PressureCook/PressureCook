@@ -1,4 +1,4 @@
-### Hi, I'm Takunda (Larry) 👋
+### Hi, I'm Takunda 👋
 
 Software engineer in South Wales. BSc Software Engineering, Swansea, 2:1. Working my way into AI infrastructure: Linux, Kubernetes, GPU training.
 
